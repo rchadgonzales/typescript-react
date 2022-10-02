@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+#
+
+#
+
+# TypeScript Crash Course
+
+This is TypeScript from the [YouTube crash course](https://www.youtube.com/watch?v=BCg4U1FzODs). It includes learning about all of the basics of TypeScript and include TypeScript with React.
+
+## Creating React File and Include TypeScript with React
+
+Inside your empty folder
+
+```
+npx create-react-app . --template typescript
+```
